@@ -1,6 +1,6 @@
 🔧🚀 Projeto Pessoal - Integração Salesforce, AWS e Terraform 🚀🔧
 
-![Arquitetura](https://github.com/rodrigofjorge77/Wheather-Forecast-WebScraping/blob/main/arquitetura%20webscraping.png)
+![Arquitetura](https://github.com/rodrigofjorge77/API-SALESFORCE-TERRAFORM-S3-POSTGRES/blob/main/arquitetura.png)
 
 Recentemente, concluí um projeto pessoal utilizando ferramentas poderosas de automação e integração em cloud!
 
