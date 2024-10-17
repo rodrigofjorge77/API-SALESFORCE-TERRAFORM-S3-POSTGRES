@@ -19,3 +19,16 @@ Essa integração eficiente permite um processamento robusto e otimizado para gr
 ![Arquitetura](https://github.com/rodrigofjorge77/API-SALESFORCE-TERRAFORM-S3-POSTGRES/blob/main/postgresTable.png)
 
 ![Arquitetura](https://github.com/rodrigofjorge77/API-SALESFORCE-TERRAFORM-S3-POSTGRES/blob/main/s3Bucket.png)
+
+
+##English
+
+With Terraform, I automated the creation of AWS resources such as an S3 bucket and a PostgreSQL database, ensuring infrastructure as code and scalability.
+
+🐍 I developed a Python program to extract large volumes of data from Salesforce using the new Bulk API 2.0. The program’s flow included:
+
+Obtaining the Salesforce API access token;
+Creating the job to extract the data;
+Retrieving the processed result;
+Storing the data in a CSV file on S3 and in the PostgreSQL table.
+This efficient integration enables robust and optimized processing for large volumes of data! 🌐💡
