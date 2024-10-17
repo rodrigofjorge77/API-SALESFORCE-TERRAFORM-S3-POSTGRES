@@ -1,4 +1,4 @@
-🔧🚀 Projeto Pessoal - Integração Salesforce, AWS e Terraform 🚀🔧
+🔧🚀Integração Salesforce, AWS e Terraform 🚀🔧
 
 ![Arquitetura](https://github.com/rodrigofjorge77/API-SALESFORCE-TERRAFORM-S3-POSTGRES/blob/main/arquitetura.png)
 
@@ -16,6 +16,6 @@ Armazenamento dos dados em um arquivo CSV no S3 e na tabela do PostgreSQL.
 
 Essa integração eficiente permite um processamento robusto e otimizado para grandes volumes de dados! 🌐💡
 
-![Tabela](https://github.com/rodrigofjorge77/API-SALESFORCE-TERRAFORM-S3-POSTGRES/blob/main/arquitetura.png](https://github.com/rodrigofjorge77/API-SALESFORCE-TERRAFORM-S3-POSTGRES/blob/main/postgresTable.png)
+![Arquitetura](https://github.com/rodrigofjorge77/API-SALESFORCE-TERRAFORM-S3-POSTGRES/blob/main/postgresTable.png)
 
-![s3](https://github.com/rodrigofjorge77/API-SALESFORCE-TERRAFORM-S3-POSTGRES/blob/main/arquitetura.png](https://github.com/rodrigofjorge77/API-SALESFORCE-TERRAFORM-S3-POSTGRES/blob/main/postgresTable.png)](https://github.com/rodrigofjorge77/API-SALESFORCE-TERRAFORM-S3-POSTGRES/blob/main/s3Bucket.png)
+![Arquitetura](https://github.com/rodrigofjorge77/API-SALESFORCE-TERRAFORM-S3-POSTGRES/blob/main/s3Bucket.png)
